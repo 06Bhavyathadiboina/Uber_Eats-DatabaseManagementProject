@@ -81,3 +81,18 @@ Delivery Address: This entity represents the delivery address associated with a 
 Order Item: This entity represents an item on the menu of a restaurant. Each menu item has a unique ID and can be part of many orders.
 
 Order: This entity represents an order placed by a user. Each order has a unique ID and is associated with one user and one restaurant. Each order can have many items.
+
+
+ER Diagram:
+
+![image](https://github.com/06Bhavyathadiboina/Uber_Eats-DatabaseManagementProject/assets/129217214/0fc4e1e9-d0f5-4bff-a3be-0a699ee86d11)
+
+
+Relational Schema:
+
+![image](https://github.com/06Bhavyathadiboina/Uber_Eats-DatabaseManagementProject/assets/129217214/e1f9c769-4807-4153-a03b-ee1eee64cd87)
+
+Final relational schema after normalization:
+
+![image](https://github.com/06Bhavyathadiboina/Uber_Eats-DatabaseManagementProject/assets/129217214/19c1056d-c62c-45df-bd3e-6cb4feae14a6)
+
